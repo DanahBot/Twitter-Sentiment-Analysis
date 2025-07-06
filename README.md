@@ -1,6 +1,12 @@
 # Twitter Sentiment Analysis
 
-![Project Poster]( images/poster.png )
+
+
+
+![Project Poster](images/poster.png )
+
+
+
 
 A machine learning project that analyzes the sentiment of tweets (positive, negative, neutral) using Python.
 
