@@ -1,6 +1,6 @@
 # Twitter Sentiment Analysis
 
-![Project Poster](images/poster.png)
+![Project Poster]( images/poster.png )
 
 A machine learning project that analyzes the sentiment of tweets (positive, negative, neutral) using Python.
 
@@ -36,11 +36,11 @@ A machine learning project that analyzes the sentiment of tweets (positive, nega
 
 Example snippet from the code:
 
-![Code Example](images/code_example.png)
+![Code Example]( images/code_example.png )
 
 Sentiment distribution pie chart:
 
-![Results Chart](images/chart.png)
+![Results Chart]( images/chart.png )
 
 ## Dataset Source
 This project uses the [Twitter US Airline Sentiment dataset](https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment) from Kaggle.
